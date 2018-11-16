@@ -1,5 +1,5 @@
 # TechFire-Bot
-## The bot on the TechFire discord server, written in Python.
+## The bot on the TechFire Discord server, written in Python.
 ### This bot currently features: 
 - Question responses
 - Profanity filter
